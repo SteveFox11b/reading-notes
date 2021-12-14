@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Summerized reading notes
 
-You can use the [editor on GitHub](https://github.com/SteveFox11b/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+After reading I have learned that there are a variety of differnt ways to code the way you want your work to look. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Example
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is an example of basic code and how to write in html.
 
 ```markdown
-Syntax highlighted code block
+How to start and end a paragraph...<p>paragraph contents.</p>
 
-# Header 1
-## Header 2
-### Header 3
+How to do a heading...# Here's a Heading
 
-- Bulleted
-- List
+How to italiceze...Italicized text is the *cat's meow*.
 
-1. Numbered
-2. List
+If you would like to read more you can click [here](https://www.markdownguide.org/basic-syntax/)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SteveFox11b/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
