@@ -9,6 +9,8 @@ Create small relistic attainable goals to accomplish the big goal.
 ### About me
 Hello my name is Steve Horne. I'm 31 and live in Coeur D Alene, Idaho and am in Pacific Time. Coding/Software Development is brand new to me but something I've always been interested in. I'm nervous and super excited. I come from a military background and have worked in fields related to that my whole life. In my free time I enogy going to the gym and hanging out with my kids and wife.
 #### Links to my reading notes 
+##### Code 102
+
 [Basic Navigation](day2.md)
 
 [Git Intro](day3.md)
