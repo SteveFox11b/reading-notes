@@ -26,3 +26,5 @@ Data is securely stored in a local database
 Modified
 
 File has been changed but not committed to the database
+### Some Examples
+
