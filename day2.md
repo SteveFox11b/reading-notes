@@ -3,22 +3,24 @@
 
 
  ## Main Points for the day
-    **Basic navigation**
+   
+   **Basic navigation**
 
-    pwd
+   pwd
 
-    Print Working Directory - ie. Where are we currently.
+   Print Working Directory - ie. Where are we currently.
 
-    ls
+   ls
     
-    List the contents of a directory.
+   List the contents of a directory.
     
-    cd
+   cd
     
-    Change Directories - ie. move to another directory.
+   Change Directories - ie. move to another directory.
     
-    **The Command Line**
-    A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+   The Command Line
+    
+   A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 
 
 
