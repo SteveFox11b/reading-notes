@@ -1,4 +1,4 @@
-# Code 102
+# Growth Mindset 
 Growth mindset is all anout having the will to be better. Taking negative energy and turning into positive energy and having the disipline to follow through. We all have that goal whether it be loose weight, run that marathon, save more money or learn how to code. No matter what the goal in life you will always run into roadblocks or times that get hard. This is where having disipline comes into pley. Having the mental fortitude or will power to push through. This is where growth happens. If you can get yourself to where you practice growth mindset daily and are aware of these hard times and you embrace the suck willingly you will always get better. Its impossible not to.
 ## Things to remember
 Pain is temporary, pride lasts forever.
