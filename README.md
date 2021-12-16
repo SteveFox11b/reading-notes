@@ -12,7 +12,7 @@ Create small relistic attainable goals to accomplish the big goal.
 Hello my name is Steve Horne. I'm 31 and live in Coeur D Alene, Idaho and am in Pacific Time. Coding/Software Development is brand new to me but something I've always been interested in. I'm nervous and super excited. I come from a military background and have worked in fields related to that my whole life. In my free time I enogy going to the gym and hanging out with my kids and wife.
 #### Class Code 102 reading notes 
 
-[Day 1 Basic Synax and Markdown](day1.md)
+[Day 1 Basic Synax and Markdown](day1.md)                    All of these links are new. They are links to our daily reading notes.
 
 [Day 2 Basic Navigation](day2.md)
 
