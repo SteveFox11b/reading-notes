@@ -26,5 +26,10 @@ Data is securely stored in a local database
 Modified
 
 File has been changed but not committed to the database
-### Some Examples
+### Some Examples covered in reading
+
+How to go over some customization tools, how to default text editer, how to check settings, getting help, importing, cloning and much much more. Here is a link to the days reading. [Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
+
+
 
