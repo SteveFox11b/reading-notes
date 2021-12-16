@@ -11,6 +11,8 @@ Hello my name is Steve Horne. I'm 31 and live in Coeur D Alene, Idaho and am in 
 #### Links to my reading notes 
 ##### Code 102
 
+[Basic Synax and Markdown](day1.md)
+
 [Basic Navigation](day2.md)
 
 [Git Intro](day3.md)
