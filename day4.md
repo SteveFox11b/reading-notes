@@ -13,5 +13,5 @@ Wireframing is a practice used by UX designers which allows them to define and p
 <li>Add some detail and get testing</li>
 <li>Start turning your wireframes into proto types.
   
-#### You can read more on wireframe [here](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+#### You can read more on wireframe  [here](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
   
