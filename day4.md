@@ -15,18 +15,16 @@ Wireframing is a practice used by UX designers which allows them to define and p
   
 
   
-  #### More on wireframe 
+  #### Links to todays reading notes
   
-  [here](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
   
-  #### More on HTML
+  [wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
   
-  [here](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
   
-  #### More on Semantics
+  [html](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
   
  
-  [here](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+  [semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
   
   
   
