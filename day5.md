@@ -29,7 +29,9 @@
 
 At this stage you don't need to worry too much about how CSS is structured, however it can make it easier to find information if, for example, you are aware that a certain property is likely to be found among other similar things and are therefore probably in the same specification.
 
-For a specific example, let's go back to the Backgrounds and Borders module — you might think that it makes logical sense for the background-color and border-color properties to be defined in this module. And you'd be right. Link to[CSSReading](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+For a specific example, let's go back to the Backgrounds and Borders module — you might think that it makes logical sense for the background-color and border-color properties to be defined in this module. And you'd be right. Link to
+
+[CSSReading](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
 
 
 
