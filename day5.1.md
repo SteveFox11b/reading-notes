@@ -6,18 +6,6 @@
         <h1>Java Script</h1>
     </header>
 
-<main>
-
-
-<div>
-    <p>
-     <!DOCTYPE html>
-<html>
-
-<body>
-    <header>
-        <h1>Java Script</h1>
-    </header>
 
 <main>
 
@@ -48,31 +36,3 @@ JavaScript is primarily used in the browser, enabling developers to manipulate w
 </body>
 
 </html>
-
-
-
-
-
-    
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-</main>
-
-
-</body>
-
-</html>
-
-
