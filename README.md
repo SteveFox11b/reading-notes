@@ -26,6 +26,11 @@ Hello my name is Steve Horne. I'm 31 and live in Coeur D Alene, Idaho and am in 
 
 [Day 6 JavaScript Continued](day6.md)
 
+[Day 7 Expressions and Operators, Loops and iteration](day7.md)
+
+
+
+
 
 
 
