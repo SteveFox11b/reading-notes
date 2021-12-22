@@ -25,19 +25,15 @@
 <li>Unary operators
 <li>Relational operators
  </p>
-</div>
 
-<div>
+</div>
 
 <header>
 
-<h2> Loops and iteration <h2>
-
-
-<p>
+<h2> Loops and iteration </h2>
 
 <div>
-
+<p>
 Loops offer a quick and easy way to do something repeatedly. This chapter of the JavaScript Guide introduces the different iteration statements available to JavaScript.
 
 You can think of a loop as a computerized version of the game where you tell someone to take X steps in one direction, then Y steps in another. For example, the idea "Go five steps to the east" could be expressed this way as a loop:
