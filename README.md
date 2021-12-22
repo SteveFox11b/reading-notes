@@ -24,6 +24,14 @@ Hello my name is Steve Horne. I'm 31 and live in Coeur D Alene, Idaho and am in 
 
 [Day 5.1 JavaScript](day5.1.md)
 
+[Day 6 JavaScript Continued](day6.md)
+
+
+
+
+
+
+
 
 
 
